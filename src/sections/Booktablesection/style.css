@@ -1,0 +1,73 @@
+.BTsec-div {
+  height: 328px;
+  background: rgba(16, 20, 24, 0.7);
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.BTsec-inner-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.BTsec-inner-div div {
+  display: flex;
+  position: relative;
+}
+
+.rib2 {
+  position: absolute;
+  bottom: -25px;
+  right: 0px;
+}
+
+.rib1 {
+  position: absolute;
+  left: -265px;
+  bottom: -50px;
+}
+
+.rib4 {
+  position: absolute;
+  left: -95px;
+  bottom: -25px;
+}
+
+.rib3 {
+  position: absolute;
+  left: 0px;
+  bottom: -50px;
+}
+
+.mid-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 39px;
+}
+
+#BT-dancScr {
+  width: 466px;
+  height: 70px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #fffffc;
+}
+
+.mid-div h2 {
+  margin-top: 40px;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 38px;
+  letter-spacing: 0.02em;
+
+  color: #ffce6d;
+}
+
+.BT-btn {
+  margin-top: 25px;
+}

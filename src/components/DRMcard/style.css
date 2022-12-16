@@ -1,0 +1,22 @@
+.DRMcard-div {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.DRMcard-div h3 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 117.3%;
+  text-align: center;
+  color: #ffce6d;
+}
+
+.DRMcard-div p {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117.3%;
+  text-align: center;
+  color: #fffffc;
+}

@@ -1,0 +1,38 @@
+#Rsec2 {
+  margin-bottom: 100px;
+}
+
+#rsec2-dancscr {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 117.3%;
+  letter-spacing: 0.1em;
+  color: #ffce6d;
+}
+
+#p1 {
+  margin-top: 13px;
+}
+
+#p2 {
+  width: 378px;
+  height: 151px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  text-transform: capitalize;
+
+  color: #fffffc;
+}
+
+.btn {
+  width: 177px;
+  height: 44px;
+  margin-top: 62px;
+}
+
+#img {
+  width: 441px;
+  height: 390px;
+}

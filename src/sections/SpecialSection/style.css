@@ -1,0 +1,20 @@
+.special-sec {
+  margin-top: 93px;
+  height: 725px;
+  background: rgba(16, 20, 24, 0.7);
+  text-align: center;
+  padding: 26px 42px 96px 42px;
+}
+
+.special-sec-h3 {
+  font-weight: 700;
+  font-size: 30px;
+  text-transform: capitalize;
+  margin-top: 17px;
+}
+
+.spec-sec-div {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 70px;
+}

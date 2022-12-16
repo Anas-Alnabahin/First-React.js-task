@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Roboto&display=swap");
+
+.rsec-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.rsec-p-1 {
+  font-weight: 700;
+  font-size: 30px;
+  width: 694px;
+  height: 64px;
+  line-height: 117.3%;
+  text-transform: capitalize;
+}
+
+.rsec-p-2 {
+  width: 568px;
+  height: 171px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 155.3%;
+  color: #fffffc;
+  letter-spacing: 0.13em;
+  text-transform: capitalize;
+  margin-top: 56px;
+}

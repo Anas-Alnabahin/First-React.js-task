@@ -1,0 +1,62 @@
+.nav {
+  background-color: #101418;
+  width: 1150px;
+  height: 76px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.nav img {
+}
+#logo {
+  margin-right: 30px;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav ul li {
+  color: #ffffcc;
+  display: inline;
+  margin: 0 40px;
+  font-size: 18px;
+}
+
+#search {
+  height: 19px;
+  width: 19px;
+}
+
+.book-now {
+  width: 272px;
+  height: 76px;
+  font-size: 21px;
+  background-color: #a08040;
+  border: 7px solid #a08040;
+  position: relative;
+  margin-left: 63px;
+}
+
+.book-now::after {
+  content: "";
+  width: 35px;
+  position: absolute;
+  left: 20px;
+  top: 31px;
+  border: 2px solid #ffffff;
+}
+
+.book-now::before {
+  content: "";
+  width: 35px;
+  position: absolute;
+  right: 20px;
+  top: 31px;
+  border: 2px solid #ffffff;
+}

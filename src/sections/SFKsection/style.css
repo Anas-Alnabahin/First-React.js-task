@@ -1,0 +1,29 @@
+.SFK-div {
+  height: 749px;
+  margin: 49px 89px 142px 96px;
+}
+
+#dancScr {
+  text-align: center;
+}
+
+.SFK-h2 {
+  margin-top: 17px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 117.3%;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.SFK-inner-div {
+  height: 601px;
+  margin-top: 102px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  row-gap: 32px;
+  column-gap: 141px;
+  justify-content: center;
+  align-items: center;
+}
