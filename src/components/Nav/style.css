@@ -1,6 +1,6 @@
 .nav {
   background-color: #101418;
-  width: 1150px;
+  width: 1160px;
   height: 76px;
   display: flex;
   justify-content: center;
@@ -8,8 +8,6 @@
   margin: 0 auto;
 }
 
-.nav img {
-}
 #logo {
   margin-right: 30px;
 }
@@ -34,7 +32,7 @@
 }
 
 .book-now {
-  width: 272px;
+  width: 295px;
   height: 76px;
   font-size: 21px;
   background-color: #a08040;

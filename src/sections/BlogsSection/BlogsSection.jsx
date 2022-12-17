@@ -5,7 +5,7 @@ import './style.css'
 
 export default function BlogsSection() {
   return (
-    <div className='BS-div'>
+    <div className='BS-div' id='Blogs'>
         <DancScript text='Blogs'/>
         <h2>words from our food lovers</h2>
         <div className="blog-cards-div">

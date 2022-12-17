@@ -5,7 +5,7 @@ import './style.css'
 
 export default function SFKsection() {
   return (
-    <div className='SFK-div'>
+    <div className='SFK-div' id='Menu'>
         <DancScript text='Straight From Kitchen'id="dancScr"/>
         <h2 className='SFK-h2'>our menu</h2>
         <div className='SFK-inner-div'>

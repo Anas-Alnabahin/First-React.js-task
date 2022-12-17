@@ -5,7 +5,7 @@ import './style.css'
 
 export default function SpecialSec() {
   return (
-    <div className='special-sec'>
+    <div className='special-sec' id='Special'>
             <DancScript text='Special'/>
             <h3 className='special-sec-h3'>What makes us special</h3>
             <div className='spec-sec-div'>
