@@ -1,0 +1,21 @@
+.cont-div {
+  display: flex;
+}
+
+.cont-div img {
+  display: inline;
+  margin-top: 15px;
+}
+
+.cont-div p {
+  width: 359px;
+  height: 24px;
+  display: inline;
+  margin-top: 20px;
+  margin-left: 18px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 155.3%;
+  letter-spacing: 0.13em;
+  text-transform: capitalize;
+}

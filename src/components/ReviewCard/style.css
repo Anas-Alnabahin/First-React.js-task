@@ -1,0 +1,32 @@
+.rev-card {
+  width: 732px;
+  height: 385px;
+  background: rgba(16, 20, 24, 0.7);
+  margin-top: 60px;
+  padding: 38px 68px 63px 60px;
+}
+
+.first-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.p1-stars-div {
+  margin-right: 365px;
+  margin-left: 51px;
+  margin-top: 30px;
+  width: 250px;
+}
+
+.p1-stars-div p {
+  width: 100px;
+}
+
+.p2 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.13em;
+  text-transform: capitalize;
+  margin-top: 45px;
+}

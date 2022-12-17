@@ -1,0 +1,28 @@
+.sub-div {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+#parent {
+  margin-left: -55px;
+}
+
+#id2 {
+  width: 28px;
+  height: 20px;
+  margin-top: 22px;
+}
+
+.sub-input {
+  width: 407px;
+  height: 55px;
+  background-color: transparent;
+  border: 1px solid #ffffcc;
+  padding: 18px 71px 17px 34px;
+  margin-left: 90px;
+  margin-right: 50px;
+}

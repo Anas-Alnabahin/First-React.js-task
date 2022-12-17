@@ -1,0 +1,13 @@
+.footer-sec {
+  height: 74px;
+  background: rgba(16, 20, 24, 0.7);
+  padding: 13px;
+}
+
+.footer-sec p {
+  text-align: center;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}

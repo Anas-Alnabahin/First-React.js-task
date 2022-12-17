@@ -1,0 +1,27 @@
+.rev-sec-div {
+  height: 730px;
+}
+
+#rev-dancsrc {
+  text-align: center;
+  margin-top: 100px;
+  font-weight: 700;
+  font-size: 45px;
+}
+
+.rev-sec-div h2 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 117.3%;
+  text-align: center;
+  text-transform: capitalize;
+  color: #fffffc;
+  margin-top: 13px;
+}
+
+.cards-div {
+  display: flex;
+  justify-content: center;
+  column-gap: 80px;
+  overflow: hidden;
+}

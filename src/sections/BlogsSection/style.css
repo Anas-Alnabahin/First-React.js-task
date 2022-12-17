@@ -1,0 +1,23 @@
+.BS-div {
+  text-align: center;
+  margin-top: -50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.blog-cards-div {
+  margin-top: 69px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#mid-card {
+  position: relative;
+}
+
+#mid-card img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
